@@ -1,5 +1,7 @@
+# This is a copied repogitory for my profile.
+from [here](https://github.com/jstrieb/github-stats).
+<br><br>
 # [GitHub Stats Visualization](https://github.com/jstrieb/github-stats)
-
 <!--
 https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mode/147981/84
 -->
